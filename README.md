@@ -2,7 +2,7 @@
 
 - I am a Computer Scientist and Software Engineer.
 
-### Connect and work with me:
+### Connect me:
 
 &nbsp;&nbsp;
 [<img src="./img/linkedin.svg" width="48">](https://linkedin.com/in/huseyinhartavi35)
