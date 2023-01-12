@@ -16,6 +16,6 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=7"/>
 </div>
 
