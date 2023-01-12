@@ -16,4 +16,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinhartavi)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
