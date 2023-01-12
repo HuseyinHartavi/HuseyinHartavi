@@ -16,6 +16,8 @@
 
 <br>
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=7"/>
-</div>
+<!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=7"/>
+</div> -->
+
+<img height="150" alt="My GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huseyinhartavi&layout=compact&langs_count=4" />
 
