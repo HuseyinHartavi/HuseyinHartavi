@@ -1,6 +1,6 @@
 ### Hello there, I'm Huseyin
 
-- I am a Computer Scientist and Software Engineer.
+- I am a Software Developer and Computer Engineer.  
 
 ### Contact me:
 
